@@ -1,0 +1,105 @@
+Estados;Criticidad;Tarea;Descripción;Inicio;Previsto;Final;Duración;Retraso;Asignado;KANBAN
+COMPLETADO;NORMAL;Introduccion;Desarrollo de la introducción del PP;10/05/2025;10/10/2025;10/10/2025;154 días;0 días;Luis Calle;Tarea 1
+COMPLETADO;IMPORTANTE;Planteamiento del Problema;Plantear el problema de nuestro proyecto;10/10/2025;10/10/2025;10/10/2025;1 días;0 días;Paulina Quishpe;Tarea 2
+COMPLETADO;IMPORTANTE;Objetivos;Plantear los objetivos a cumplir;10/10/2025;10/10/2025;10/10/2025;1 días;0 días;Paulina Quishpe;Tarea 3
+COMPLETADO;IMPORTANTE;Alcance;Redactar el alcance de proyecto;11/10/2025;11/10/2025;11/10/2025;1 días;0 días;Paulina Quishpe;Tarea 4
+COMPLETADO;IMPORTANTE;Elaboracion Marco teórico;Desarrollo del marco que abarca teoría;11/10/2025;11/10/2025;11/10/2025;1 días;0 días;Kevin Andino;Tarea 5
+COMPLETADO;URGENTE;Elaboracion Preguntas de Entrevista;Plantear preguntas para la entrevista;20/10/2025;20/10/2025;20/10/2025;1 días;0 días;Luis Calle;Tarea 6
+COMPLETADO;URGENTE;Entrevista a cliente;"Realizar una pequeña entrevista al 
+ clienta";20/10/2025;20/10/2025;20/10/2025;1 días;0 días;Kevin Andino;Tarea 7
+COMPLETADO;URGENTE;Elaborar matriz MTZ (5w+2h);Elaboración matriz MTZ (5w+2h);21/10/2025;21/10/2025;21/10/2025;1 días;0 días;Madellyn Tasipanta;Tarea 8
+COMPLETADO;URGENTE;Elaboracion de Historia de Usuario;Realizar las Historias de usuario;22/10/2025;23/10/2025;23/10/2025;2 días;0 días;Luis Calle;Tarea 9
+COMPLETADO;IMPORTANTE;Elaboracion de Ideas a defender y resultados esperados;Planteamiento de ideas;23/10/2025;23/10/2025;23/10/2025;1 días;0 días;Paulina Quishpe;Tarea 10
+COMPLETADO;IMPORTANTE;Elaboracion de Viabilidad, Humana todos los apartados ;Evaluar la viabilidad del proyecto;23/10/2025;23/10/2025;23/10/2025;1 días;0 días;Paulina Quishpe;Tarea 11
+COMPLETADO;IMPORTANTE;Elaboracion de apartado de tecnología;Revisión de material a utilizar;23/10/2025;23/10/2025;23/10/2025;1 días;0 días;Paulina Quishpe;Tarea 12
+COMPLETADO;NORMAL;Revisión final de Perfil de Proyecto;"Verificar que esten correctos los apar_ 
+tados del perfil de proyecto";30/10/2025;30/10/2025;30/10/2025;1 días;0 días;Kevin Andino;Tarea 13
+COMPLETADO;NORMAL;Defensa del Perfil de Proyecto;Presentar las ideas planteadas;31/10/2025;31/10/2025;31/10/2025;1 días;0 días;Madellyn Tasipanta;Tarea 14
+COMPLETADO;NORMAL;Revisión del Perfil de Proyecto, Cronograma Marco de trabajo ágil SCRUM, MTZ de Marco de trabajo de Historia de Usuario;Revisión por parte de la ingeniera guía del proyecto;31/10/2025;31/10/2025;31/10/2025;1 días;0 días;Ing. Jenny Ruiz;Tarea 15
+COMPLETADO;NORMAL;Revisión de MTZ de Historias de Usuarios (HU) y Documento de descripción de HU;Revisión por parte de la ingeniera guía del proyecto;31/10/2025;31/10/2025;31/10/2025;1 días;0 días;Ing. Jenny Ruiz;Tarea 16
+COMPLETADO;NORMAL;Revisión de MTZ HU de proyecto real, Video con la entrevista, Defensa.;Revisión por parte de la ingeniera guía del proyecto;31/10/2025;31/10/2025;31/10/2025;1 días;0 días;Ing. Jenny Ruiz;Tarea 17
+COMPLETADO;URGENTE;REQ001 Ingreso y autenticacion del administrador;Validar credenciales de administrador ;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Luis Calle;Tarea 18
+COMPLETADO;URGENTE;REQ001-1 Crear una interfaz que permita al administrador ingresar sus datos;Maqueteo interfaz del aplicativo;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Luis Calle;Tarea 19
+COMPLETADO;URGENTE;REQ001-2 Almacenamiento de inicio de sesión en base de datos.;Almacenar las credenciales en una base de datos;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Luis Calle;Tarea 20
+COMPLETADO;URGENTE;REQ001-3 Validación de inicio de sesión en la base de datos;Seguridad y bloqueo del programa;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Luis Calle;Tarea 21
+COMPLETADO;URGENTE;REQ002 Revision del perfil de Usuario;Permitir al usuario ver su información;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Luis Calle;Tarea 22
+COMPLETADO;URGENTE;REQ002-1  Infraestructura y Almacenamiento;Almacenamiento de datos ;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Luis Calle;Tarea 23
+COMPLETADO;URGENTE;REQ002-2 Interfaz de Usuario (Módulo de Administración);Diseñar interfaz grafica para la edicion de datos;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Luis Calle;Tarea 24
+COMPLETADO;URGENTE;REQ002-3 Procesamiento y Estandarización;Procesamiento y edicion de datos;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Luis Calle;Tarea 25
+COMPLETADO;NORMAL;Revisión de Backlog Sprint0 ;Revisión por parte de la ingeniera guía del proyecto;09/06/2025;09/06/2025;09/06/2025;1 días;0 días;Ing. Jenny Ruiz;Tarea 26
+COMPLETADO;URGENTE;REQ003 Ingresar datos del contratos;Fideicomiso Mercanti, Encargo Fiduciario;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Kevin Andino;Tarea 27
+COMPLETADO;URGENTE;REQ003-1 Visualización de las 5 plantillas y sus tipos principales.;Planitllas para los contratos;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Kevin Andino;Tarea 28
+COMPLETADO;URGENTE;REQ003-2 Implementación del conjunto de campos obligatorios esenciales.;Plantilla de contrato general;03/12/2025;09/12/2025;08/12/2025;6 días;0 días;Kevin Andino;Tarea 29
+COMPLETADO;URGENTE;REQ003-3 Que el administrador pueda seleccionar el tipo de contrato.;Formularios editables para contratos;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Kevin Andino;Tarea 30
+COMPLETADO;URGENTE;Arreglo de Bugs;Arreglar errores del proyecto;04/12/2025;09/12/2025;09/12/2025;6 días;0 días;Luis Calle;Tarea 31
+COMPLETADO;URGENTE;Reunion de retroalimentacion con Product Owner;Aplicar sugerencias del Product Owner;05/12/2025;10/12/2025;10/12/2025;6 días;0 días;Luis Calle;Tarea 32
+COMPLETADO;URGENTE;Testeo REQ001, REQ002, REQ003;Prueba de REQ funcionales ;06/12/2025;11/12/2025;11/12/2025;6 días;0 días;Luis Calle;Tarea 33
+COMPLETADO;URGENTE;Refinamiento de backlog;;;;;;;Madellyn Tasipanta;Tarea 34
+COMPLETADO;NORMAL;Revisión de actas de reunión;Revisión por parte de la ingeniera guía del proyecto;30/06/2025;30/06/2025;30/06/2025;1 días;0 días;Ing. Jenny Ruiz;Tarea 35
+COMPLETADO;URGENTE;REQ004 Gestión de contratos;Guardar datos ingresados en plantillas;30/06/2025;10/07/2025;10/07/2025;11 días;0 días;Paulina Quishpe;Tarea 36
+COMPLETADO;IMPORTANTE;REQ004-1 Implementar en las plantillas el botón “Guardar contrato” y mostrar una ventana de confirmación. ;Botón guardado y confirmación;30/06/2025;30/06/2025;30/06/2025;1 días;0 días;Paulina Quishpe;Tarea 37
+COMPLETADO;NORMAL;REQ004-2 Agregar validaciones para asegurar que los campos requeridos del contrato estén correctamente llenados antes de guardar.;Validación de campos;01/07/2025;02/07/2025;02/07/2025;2 días;0 días;Paulina Quishpe;Tarea 38
+COMPLETADO;URGENTE;REQ004-3 Implementar la lógica de backend para almacenar el contrato en la base de datos al presionar “Guardar contrato”. Y exportación a PDF;Lógica backend;02/07/2025;04/07/2025;04/07/2025;3 días;0 días;Paulina Quishpe;Tarea 39
+COMPLETADO;URGENTE;Testeo REQ004;Probar funcionamiento REQ004;05/07/2025;05/07/2025;05/07/2025;1 días;0 días;Paulina Quishpe;Tarea 40
+COMPLETADO;IMPORTANTE;Refinamiento REQ004;Corregir REQ044;06/07/2025;06/07/2025;06/07/2025;1 días;0 días;Paulina Quishpe;Tarea 41
+COMPLETADO;URGENTE;REQ005 Busqueda de contratos;Busqueda de contratos registrados;07/07/2025;10/07/2025;10/07/2025;4 días;0 días;Paulina Quishpe;Tarea 42
+COMPLETADO;NORMAL;REQ005-1 Agregar la opción “Buscar contrato” en la interfaz principal. ;Agregar botón de búsqueda;07/07/2025;07/07/2025;07/07/2025;1 días;0 días;Paulina Quishpe;Tarea 43
+COMPLETADO;IMPORTANTE;REQ005-2 Diseñar e implementar la barra de búsqueda con campos: para Laboral cédula y para Civil RUC.;Barra de búsqueda según tipo;08/07/2025;08/07/2025;08/07/2025;1 días;0 días;Luis Calle;Tarea 44
+COMPLETADO;URGENTE;REQ005-3 Desarrollar la lógica de backend para filtrar y mostrar los contratos que coincidan con los datos ingresados.;Desarrollo de lógica backend;09/07/2025;11/07/2025;11/07/2025;3 días;0 días;Madellyn Tasipanta;Tarea 45
+COMPLETADO;NORMAL;Revisión de VIDEO DE ENTREVISTA 1, VIDEO MAQUETADO, VIDEO PRESENTACION;Revisión por parte de la ingeniera guía del proyecto;14/12/2025;14/12/2025;14/12/2025;1 días;0 días;Ing. Jenny Ruiz;Tarea 46
+COMPLETADO;NORMAL;Revisión de Backlog Sprint0, Sprint1;Revisión por parte de la ingeniera guía del proyecto;14/12/2025;14/12/2025;14/12/2025;1 días;0 días;Ing. Jenny Ruiz;Tarea 47
+COMPLETADO;URGENTE;Retroalimentación con Product owner;Sugerenicas del Product Owner;15/12/2025;15/12/2025;15/12/2025;1 días;0 días;Madellyn Tasipanta;Tarea 48
+COMPLETADO;NORMAL;Revisión de caja negra y caja blanca Sprint0, Sprint1;Revisión por parte de la ingeniera guía del proyecto;16/12/2025;16/12/2025;16/12/2025;1 días;0 días;Ing. Jenny Ruiz;Tarea 49
+COMPLETADO;IMPORTANTE;Presentación de proyectos con funcionalidad SPRINT1,2,3...;Revisión por parte de la ingeniera guía del proyecto;16/12/2025;16/12/2025;16/12/2025;1 días;0 días;Madellyn Tasipanta;Tarea 50
+COMPLETADO;NORMAL;Revisión de presentación de proyectos con funcionalidad SPRINT1,2,3...;Revisión por parte de la ingeniera guía del proyecto;16/12/2025;16/12/2025;16/12/2025;1 días;0 días;Ing. Jenny Ruiz;Tarea 51
+COMPLETADO;IMPORTANTE;Revisión archivo Kanban de los sprint0, sprint1, sprint2;Revisión por parte de la ingeniera guía del proyecto;14/01/2026;16/01/2026;16/01/2026;3 días;0 días;Ing. Jenny Ruiz;Tarea 52
+COMPLETADO;IMPORTANTE;REQ006 Eliminación de Contratos;Editar y eliminar contratos registrados;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Madellyn Tasipanta;Tarea 53
+COMPLETADO;NORMAL;REQ006-1Permitir seleccionar un contrato desde la interfaz.;Implementar boton de seleccion a un contrato.;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Kevin Andino;Tarea 54
+COMPLETADO;URGENTE;REQ006-2 Mostrar mensaje de confirmación antes de eliminar.;Mensaje de contrato eliminado.;03/12/2025;08/12/2025;08/12/2025;6 días;0 días;Luis Calle;Tarea 55
+COMPLETADO;URGENTE;REQ006-3 Verificar que el contrato exista y pueda ser eliminado.;Verificar en el menu de todos los contratos.;03/12/2025;10/12/2025;08/12/2025;6 días;0 días;Madellyn Tasipanta;Tarea 56
+COMPLETADO;URGENTE;Retroalimentación con Product owner;Sugerenicas del Product Owner;31/07/2025;31/07/2025;31/07/2025;1 días;0 días;Kevin Andino;Tarea 57
+POR HACER;URGENTE;Defensa de proyecto final;Presentación final Proyecto;01/08/2025;01/08/2025;01/08/2025;1 días;0 días;Kevin Andino;Tarea 58
+POR HACER;URGENTE;Revisión defensa de proyecto final;Últimos retoques y correcciones del proyecto;02/02/2026;02/02/2026;02/02/2026;1 días;0 días;Ing. Jenny Ruiz;Tarea 59
+EN PROGRESO;IMPORTANTE;REQ007 Guardar Contratos ;Guardar contratos dentro del sistema;09/12/2025;21/01/2026;10/12/2025;2 días;0 días;Madellyn Tasipanta;Tarea 60
+EN PROGRESO;IMPORTANTE;REQ007-1 Revisar que todos los campos requeridos estén completos.;Guardar contratos dentro del sistema;09/12/2025;21/01/2026;21/01/2026;44 días;0 días;Madellyn Tasipanta;Tarea 61
+EN PROGRESO;URGENTE;REQ007-2 Comprobar que el contrato no exista previamente.;;10/12/2025;21/01/2026;21/01/2026;43 días;0 días;Madellyn Tasipanta;Tarea 62
+EN PROGRESO;URGENTE;REQ007-3 Registrar el contrato con sus datos esenciales.;;11/12/2025;21/01/2026;21/01/2026;42 días;0 días;Madellyn Tasipanta;Tarea 63
+EN PROGRESO;IMPORTANTE;REQ007-4 Notificar éxito o error al usuario.;;11/12/2025;21/01/2026;21/01/2026;42 días;0 días;Madellyn Tasipanta;Tarea 64
+EN PROGRESO;IMPORTANTE;REQ008 Exportar Contratos;;12/12/2025;21/01/2026;21/01/2026;41 días;0 días;Madellyn Tasipanta;Tarea 65
+EN PROGRESO;IMPORTANTE;REQ008-1 Obtener y Modelar Datos;;14/01/2026;28/01/2026;21/01/2026;8 días;0 días;Madellyn Tasipanta;Tarea 66
+EN PROGRESO;IMPORTANTE;REQ008-2 Integrar Librería de Generación de PDF;;15/01/2026;28/01/2026;21/01/2026;7 días;0 días;Madellyn Tasipanta;Tarea 67
+EN PROGRESO;IMPORTANTE;REQ008-3 Integrar Librería de Generación de Excel;;17/01/2026;29/01/2026;21/01/2026;5 días;0 días;Madellyn Tasipanta;Tarea 68
+EN PROGRESO;IMPORTANTE;REQ008-4 Crear el Endpoint de Exportación (Backend);;19/01/2026;29/01/2026;21/01/2026;3 días;0 días;Madellyn Tasipanta;Tarea 69
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+COMPLETADO;NORMAL;"Resultados de las pruebas finales Stakeholder de desarrollo 
+y de la organizaciòn";"Realizar el Informe de Resultados de 
+las pruebas finales ";30/01/2025;30/01/2025;30/01/2025;1 días;0 días;Ruben Arroyo;Tarea 84
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
